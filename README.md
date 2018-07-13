@@ -1,0 +1,2 @@
+# JavaScriptUtils
+JavaScript utilities collection
